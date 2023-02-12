@@ -4,7 +4,7 @@
 Hola, mi nombre es Carolina Morales Moreira y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 ## Acerca de mí
-Soy estudiante de la Universidad de Guayaquil de la carrera de Software. Me apasiona leer y aprender mucho más de mi carrera por ese motivo estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy estudiante de la Universidad de Guayaquil de la Facultad de Ciencias Fisícas y Matemátias de la carrera de Software. Me apasiona leer y aprender mucho más de mi carrera por ese motivo estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 ## Proyectos
 Aquí hay algunos de mis proyectos más destacados:
