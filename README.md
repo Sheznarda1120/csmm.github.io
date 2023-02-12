@@ -1,6 +1,5 @@
 # Bienvenido a mi página de GitHub
-### Carolina Morales
-![Carolina Morales]
+![Carolina Morales](https://github.com/Sheznarda1120/csmm.github.io/blob/f29b7491bb8fa74ad39f88d9d695ad2886cc243d/Carolina_Morales.png)
 
 Hola, mi nombre es Carolina Morales Moreira y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
@@ -18,6 +17,7 @@ Aquí hay algunos de mis proyectos más destacados:
 
 ## Contacto
 Si desea contactarme, puede hacerlo a través de mi correo electrónico en carolina.moralesmor@ug.edu.ec
+
 También puede encontrarme en Facebook: Carolina Morales.
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
