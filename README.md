@@ -9,11 +9,11 @@ Soy estudiante de la Universidad de Guayaquil de la Facultad de Ciencias Fisíca
 ## Proyectos
 Aquí hay algunos de mis proyectos más destacados:
 
-- [Nombre del proyecto 1](link al proyecto 1): Una descripción breve del proyecto 1.
+- [Comandos en Git](https://github.com/Sheznarda1120/Talller-proceso.git): Este repositorio te enseña como crear un nuevo repositorio en la línea de comando, empujar un repositorio existente desde la línea de comando e importar código de otro repositorio.
 
-- [Nombre del proyecto 2](link al proyecto 2): Una descripción breve del proyecto 2.
+- [Tabla de Multiplicar](https://github.com/Sheznarda1120/Taller-tabla.git): Permite realizar operaciones matemáticas básicas de manera más rápida y eficiente, lo que es especialmente importante en el aprendizaje de matemáticas más avanzadas.
 
-- [Nombre del proyecto 3](link al proyecto 3): Una descripción breve del proyecto 3.
+- [Geolocalización](https://github.com/Sheznarda1120/geolocalizacion.git): Nos permite saber la ubicación de GPS en donde se muestra la latitud y la longitud actual .
 
 ## Contacto
 Si desea contactarme, puede hacerlo a través de mi correo electrónico en carolina.moralesmor@ug.edu.ec
